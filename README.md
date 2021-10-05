@@ -1,5 +1,7 @@
 # Shahbag French Academy
 
+## Learning French in both offline and online
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Speciality
