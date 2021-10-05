@@ -54,7 +54,7 @@ const tools = [
         name: 'Reading',
         title: 'French reading',
         speciality: '10 classes',
-        img: 'http://www.france.fi/wp-content/uploads/2020/08/actualites.jpg',
+        img: 'https://media.wired.com/photos/5955c3573ff99d6b3a1d165c/master/pass/books.jpg',
         cost: 75
     },
 ]
