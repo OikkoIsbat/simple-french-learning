@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.navs{
+    background-color: rgb(194, 161, 121);
+    height: 40px;
+    
+    
+}
+
+.navs a{
+  text-decoration: none;
+  color:white;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5px;
+  
+}
+
+.navs a:hover{
+  background-color:rgb(204, 212, 133);
+}
