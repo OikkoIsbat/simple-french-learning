@@ -10,9 +10,9 @@ const card = (props) => {
                     alt="" />
                 <div className="card-body">
                     <h5 className="card-title text-danger">{name}</h5>
-                    <p>{title}</p>
-                    <p className="card-text text-info">{speciality}</p>
-                    <p>${cost}</p>
+                    <h4>{title}</h4>
+                    <p className="card-text text-white">{speciality}</p>
+                    <p className="text">${cost}</p>
                     <button className="btn-primary">Proceed Now</button>
                 </div>
             </div>
